@@ -1,5 +1,5 @@
 import React, {useEffect, useState, useRef} from "react";
-import Modal from "./Modal";
+
 
 function PhotoCard(props){
 

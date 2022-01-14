@@ -1,6 +1,6 @@
 import React, {useEffect} from "react";
 import ReactDOM from "react-dom";
-import photoCard from "./PhotoCard";
+
 
 
 const Modal = props =>{

@@ -3,7 +3,7 @@ import React, {useEffect, useState} from "react";
 import Modal from "./Modal";
 import {addPhotoCard, deletePhotoCard, editPhotoCard, fetchPhotoCards} from "../actions";
 import {useDispatch, useSelector} from "react-redux";
-import Button from "bootstrap/js/src/button";
+
 
 
 function PhotoCardList(props) {
